@@ -77,7 +77,7 @@ In my systems the model talks and writes, but lead scoring, hard property data a
 
 ---
 
-## 💻 Tecnologías / Technologies
+## 💻 Tecnologías que uso / Technologies that i use
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>&nbsp;&nbsp;
