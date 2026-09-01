@@ -15,7 +15,7 @@
 
 ---
 
-## 🇦🇷 Español
+##  Español
 
 Trabajo como freelance desde mayo de 2026. En ese tiempo entregué **tres sistemas SaaS end-to-end** a clientes de marketing digital y real estate, y en los tres me tocó todo: arquitectura, backend, panel web, base de datos, testing y deploy. 🚀
 
@@ -46,7 +46,7 @@ En mis sistemas el modelo conversa y redacta, pero el scoring de un lead, los da
 
 ---
 
-## 🇬🇧 English
+##  English
 
 I've been freelancing since May 2026. In that time I shipped **three end-to-end SaaS systems** to clients in digital marketing and real estate, owning all of it: architecture, backend, web panel, database, testing and deployment. 🚀
 
