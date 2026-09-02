@@ -15,7 +15,7 @@
 
 ---
 
-##  Español
+## 🇦🇷 Español
 
 Trabajo como freelance desde mayo de 2026. En ese tiempo entregué **tres sistemas SaaS end-to-end** a clientes de marketing digital y real estate, y en los tres me tocó todo: arquitectura, backend, panel web, base de datos, testing y deploy. 🚀
 
@@ -42,11 +42,21 @@ En mis sistemas el modelo conversa y redacta, pero el scoring de un lead, los da
 
 🎓 **Formación:** Licenciatura en Sistemas de Información — Universidad Nacional del Nordeste (en curso).
 
-> 🔒 Los repositorios de mis proyectos son **privados**: contienen material de clientes. Puedo dar acceso de lectura durante un proceso de selección — escribime y lo coordinamos.
+### 🗂️ Proyectos — vitrinas públicas
+
+Cada uno tiene arquitectura, decisiones de diseño con su costo, métricas reales y fragmentos de código comentados. El sistema completo es privado (material de clientes); doy acceso de lectura durante un proceso de selección.
+
+| Proyecto | Qué es |
+|---|---|
+| [**setterbot-showcase**](https://github.com/mariodev-og/setterbot-showcase) | Calificación de leads por Instagram · 32.021 mensajes en 94 días |
+| [**contentmanager-showcase**](https://github.com/mariodev-og/contentmanager-showcase) | Generación de contenido multi-inmobiliaria · ficha determinística |
+| [**designassistbot-showcase**](https://github.com/mariodev-og/designassistbot-showcase) | Contenido para Instagram con la voz de cada marca |
+
+> 🔒 Los repositorios de producción son **privados**: contienen material de clientes. Doy acceso de lectura durante un proceso de selección — escribime y lo coordinamos.
 
 ---
 
-##  English
+## 🇬🇧 English
 
 I've been freelancing since May 2026. In that time I shipped **three end-to-end SaaS systems** to clients in digital marketing and real estate, owning all of it: architecture, backend, web panel, database, testing and deployment. 🚀
 
@@ -73,11 +83,21 @@ In my systems the model talks and writes, but lead scoring, hard property data a
 
 🎓 **Education:** B.Sc. in Information Systems — Universidad Nacional del Nordeste, Argentina (in progress).
 
-> 🔒 My project repositories are **private** — they hold client material. I'm happy to grant read access during a hiring process; just reach out.
+### 🗂️ Projects — public showcases
+
+Each one has architecture, design decisions with their cost, real metrics and commented code snippets. The full system is private (client material); I grant read access during a hiring process.
+
+| Project | What it is |
+|---|---|
+| [**setterbot-showcase**](https://github.com/mariodev-og/setterbot-showcase) | Instagram lead qualification · 32,021 messages over 94 days |
+| [**contentmanager-showcase**](https://github.com/mariodev-og/contentmanager-showcase) | Multi-agency real-estate content generation · deterministic spec sheet |
+| [**designassistbot-showcase**](https://github.com/mariodev-og/designassistbot-showcase) | Instagram content in each brand's own voice |
+
+> 🔒 The production repositories are **private** — they hold client material. I grant read access during a hiring process; just reach out.
 
 ---
 
-## 💻 Tecnologías que uso / Technologies that i use
+## 💻 Tecnologías / Technologies
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>&nbsp;&nbsp;
